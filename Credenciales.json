@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "divine-display-483720-r8",
+  "private_key_id": "879ce9f6b41037333ee396d5ae64668e78e60303",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaSUgFSXR+q+Fw\n46xb37QE9GEIOD5v3Igr9ggdTjYV1oA2Vae05tPBbOSGidQU8n9eN29aAD9NYTL8\nAgwmQ61lTemGyZil6QvTAW193ibiPDt/S88kZx+pazE0DyB+hCZ8g3YPBk6ta/Vv\ntEDHfeadV2UoZ60cvUn+eON2PPJu7V52o7QI2leqveNp3MPXRQRHVzC0NJs0Vzp5\nF8f9REFct5GyABb+gl/hT7xV1uAan2eo0LEp4Ti4vzYdPOmZiyAEe2TlmswP2YWr\nWH7q7Aplzo/n3pVENA7BOAL7T4jIeaq9BfiTs0lfuQQMGHn9fr+NmJIUt1wAI8mP\nKhobOLLFAgMBAAECggEAGjdZhYx1vxB1vjjxkKrya+Ual8r20QsoGFA2EMS5a/yG\nzLTBSnvuf2+BZVsGLokGG3xP73sbRoq9nxS5+8aEMDKM+9pFleuDltcnQ7v733Vc\npsS67fSX7LHKKo5ndxf9cirkZKkttUoi6lg2qa87AIFZLwRu5fNEH3lrLSwuBasM\nJT30zMqoxwq1H7gTLJWQk4IDqRlel8SyJbKBdfAIEpdtUusnRYx7mFxeN1cxxeUw\n+iNi5lcIyYa1OpDDXJ0ztbWHNN2YAFVBtAwaNVQmsOHq7SlITBsbc4WYdIF0Mwnr\nyhEmaBZglHdkSQThbs5mxpkxnBPYJMrwhQUBjxpQAQKBgQDWh41jG164OEOcjf2T\neeBOFel+gzHTkpJWXrHDk5rU+bDTMLuioqQBG5gfHZEvoFRXCRa2iD7Ds07Bl/z9\nWdwgohkeiJEAiZQ2gxINxXIkpTUGZzMngoQzRCKfpem8S3fFM3EmMcoDXs78eN9l\nVJffP65zCl78Lj0zW/qs9y77aQKBgQC4HHbSJt/omn1Otg0Zc/9CfYHC2wKaXUeb\nCV87ZBw6TbRa9O9BN15YClDXnghsIX1MOb25rBKpPP25pAItaZoGTk84JcFoQwX/\nfsMr9s0di2+z0piLbQLPYddR0GNkSwcSr+eRzWMwa8PxfyZzGo+TUNuWdZ9ECQCU\nXJ8XWFzc/QKBgDSsJYfO4YvDrL4Uks0R4IPrl1/LoIE8/JceOvE1HY/rGoJP9dHx\nsujeuJPzM4GJEQwpnB0HCLoOHWklAyXFWWndwuMfTtLd9LkJp3YgI21h7sn6rrGl\ntwXLVeDy4Jetw+N0RPTGxr3bGmEc4GTFx2A2B4QRaM7sH3SrwbmUG0H5AoGBAIKJ\n1AmO/KUMnJopZEJOx4baPB3vcPoH91RKodYXVhhUrfLrxZPE8USVE9q9NxWL7S4V\nppq2EYkjMHbmfZC7VjTwYyTZSDdnhiIwO6u5UpeHHM0wHW6F/T8TDTr5+O7Mb5hl\nVlg/evuC/SwGTjnAdFosM3WLsj/n7hxDS52ezkD1AoGAfX/EWwGDbH8FXLPZR5ph\nM6smRxPmiD46ZWy2EFR7YBKTaA0Ve64urKt+n6jAI0BC80uOc7VRS82fCvsMwknc\naSGMPXgZEQMNH9vTZwuNnolU96/TeMXOX+fd9+zPQ6P/GMVkuSzKasMTL1K9UL3M\nayEeJTHHSsKpBS3+w4ML6Oo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "curtiembre-bot-209@divine-display-483720-r8.iam.gserviceaccount.com",
+  "client_id": "104362707714705881283",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/curtiembre-bot-209%40divine-display-483720-r8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
