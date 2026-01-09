@@ -24,7 +24,8 @@ def conectar_google_sheets():
     
     # CAMBIA ESTO por el nombre exacto de tu archivo en Google Drive
     nombre_hoja = "pendientes"
-    sheet = client.open("pendientes").sheet1
+    spreadsheet = client.open("pendientes")
+    sheet = spreadsheet.get_worksheet(0)
     return sheet
 
 def cargar_datos_nube():
@@ -117,4 +118,5 @@ if btn_guardar:
         
         st.toast("¡Nube actualizada!", icon="☁️")
         st.rerun()
+
 
