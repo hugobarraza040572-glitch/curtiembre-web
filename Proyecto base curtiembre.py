@@ -8,7 +8,7 @@ def conectar_google_sheets():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     
     # Cargar las credenciales desde el archivo que subiste a GitHub
-    creds = ServiceAccountCredentials.from_json_keyfile_name("credenciales.json", scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name("creed.json", scope)
     client = gspread.authorize(creds)
     
     # Abrir la planilla "pendientes" y tomar la primera hoja
@@ -32,3 +32,4 @@ try:
 
 except Exception as e:
     st.error(f"Hubo un problema al conectar: {e}")
+
